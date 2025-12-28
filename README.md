@@ -1,17 +1,9 @@
 # 🚚 NexGen Logistics Intelligence Platform
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-red.svg)
 ![ML](https://img.shields.io/badge/ML-95.33%25%20Accuracy-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-**A comprehensive AI-powered logistics analytics platform featuring real-time monitoring, predictive analytics, and intelligent optimization tools.**
-
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack)
-
-</div>
 
 ---
 
