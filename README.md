@@ -1,4 +1,4 @@
-# 🚚 NexGen Logistics Intelligence Platform
+# NexGen Logistics Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-red.svg)
@@ -130,8 +130,8 @@ An end-to-end analytics solution designed to transform logistics operations from
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nexgen-logistics-platform.git
-cd nexgen-logistics-platform
+git clone https://github.com/yourusername/nexgen-logistics.git
+cd nexgen-logistics
 ```
 
 ### Step 2: Install Dependencies
@@ -218,23 +218,23 @@ The platform features a sidebar with 10 main sections:
 ```
 NexGen_Logistics/
 ├── .streamlit/
-│   └── config.toml              # Streamlit theme configuration
+│   └── config.toml              
 ├── data/
-│   ├── orders.csv               # Order information (200 records)
-│   ├── delivery_performance.csv # Delivery metrics (150 records)
-│   ├── routes_distance.csv      # Route data (150 records)
-│   ├── vehicle_fleet.csv        # Fleet information (50 vehicles)
-│   ├── warehouse_inventory.csv  # Inventory data (35 records)
-│   ├── customer_feedback.csv    # Customer feedback (83 records)
-│   └── cost_breakdown.csv       # Cost details (150 records)
-├── app.py                       # Main Streamlit application (Frontend)
-├── analytics.py                 # Core analytics engine (Backend)
-├── data_loader.py               # Data loading utilities
-├── predictive_models.py         # ML models and optimization algorithms
-├── visualizations.py            # Chart generation functions
-├── requirements.txt             # Python dependencies
-├── README.md                    # Project documentation
-└── .gitignore                   # Git ignore file
+│   ├── orders.csv               
+│   ├── delivery_performance.csv 
+│   ├── routes_distance.csv      
+│   ├── vehicle_fleet.csv        
+│   ├── warehouse_inventory.csv 
+│   ├── customer_feedback.csv    
+│   └── cost_breakdown.csv       
+├── app.py                       
+├── analytics.py                 
+├── data_loader.py               
+├── predictive_models.py         
+├── visualizations.py            
+├── requirements.txt             
+├── README.md                    
+└── .gitignore                  
 ```
 
 ---
@@ -294,10 +294,10 @@ Based on analysis of 200 orders and 150 completed deliveries:
 
 #### Prediction Capabilities
 
-- ✅ Predicts delivery delays before they occur
-- ✅ Provides risk level classification (Low/Medium/High)
-- ✅ Suggests corrective actions automatically
-- ✅ Works with real-time order data
+- Predicts delivery delays before they occur
+- Provides risk level classification (Low/Medium/High)
+- Suggests corrective actions automatically
+- Works with real-time order data
 
 ---
 
