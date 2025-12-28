@@ -1,4 +1,4 @@
-# NexGen Logistics Intelligence Platform
+# NexGen Logistics
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.52.2-red.svg)
