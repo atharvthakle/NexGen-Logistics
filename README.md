@@ -13,7 +13,7 @@ An end-to-end analytics solution designed to transform logistics operations from
 
 ## Preview
 
-
+https://github.com/user-attachments/assets/121191d0-62c1-4997-a80e-483a39b44765
 
 ---
 
